@@ -22,7 +22,7 @@ function App() {
           <i class="bi bi-list mobile-nav-toggle"></i>
         </div>
         {/* Social Link */}
-        <div className='row social-links'>
+        <div className='social-links'>
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
